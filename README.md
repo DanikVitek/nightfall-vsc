@@ -2,11 +2,6 @@
 
 ![logotype](assets/nightfall.png)
 
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=nightfall.nightfall" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/version/nightfall.nightfall.svg?style=flat-square&label=Extension%20Marketplace&logo=visual-studio-code&logoColor=eceff4&colorA=2b3242&colorB=785eab"/></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=nightfall.nightfall" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/installs/nightfall.nightfall.svg?style=flat-square&label=Extension%20Marketplace&logo=visual-studio-code&logoColor=eceff4&colorA=2b3242&colorB=785eab"/></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=nightfall.nightfall" target="_blank"><img src="https://vsmarketplacebadge.apphb.com/rating-short/nightfall.nightfall.svg?style=flat-square&label=Extension%20Marketplace&logo=visual-studio-code&logoColor=eceff4&colorA=2b3242&colorB=785eab"/></a>
-</p>
 <br>
 <br>
 
